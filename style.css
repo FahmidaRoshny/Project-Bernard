@@ -1,0 +1,248 @@
+.col-1{ width: 8.33% ;}
+.col-2{ width: 16.33% ;}
+.col-3{ width: 25% ;}
+.col-4{ width: 33.33% ;}
+.col-5{ width: 41.66% ;}
+.col-6{ width: 50% ;}
+.col-7{ width: 58.33%;}
+.col-8{ width: 66.66%;}
+.col-9{ width: 75% ;}
+.col-10{ width: 83.66% ;}
+.col-11{ width: 91.66% ;}
+.col-12{ width: 100% ;}
+
+[class*= 'col-']
+{
+    float: left;
+   // border: 1px solid red;
+}
+
+
+.h-110{height:100px;}
+.h-150{height: 150px;}
+.h-300{height: 300px;}
+.h-250{height: 250px;}
+.h-600{height: 600px;}
+.h-800{height: 800px;}
+.h-200{height: 200px;}
+.h-400{height: 400px;}
+.h-500{height: 500px;}
+
+
+.imother{
+    background-image:url("img/bari.png");
+    background-position:right;
+    background-repeat:no-repeat;
+    background-size:700px 595px;
+    height:600px;
+    width:100%;
+}
+.iechild{
+    padding:100px;
+    font-family:vardana;
+}
+.sdru{
+    color:aqua;
+    font-size:20px;
+    padding:50px 0px 0px 20px;
+    border:none;
+}
+.rothi{
+    border:2px solid #69B99D;
+    height:500px;
+    width:100%;
+    padding:30px;
+}
+.dof{
+    background-image:url("img/1st pic.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    height:250px;
+    width:100%;
+}
+.thop{
+   padding:10px 0px 0px 40px;
+}
+.button {
+    background-color: white;
+    border: 2px solid #69B99D;
+    color: black;
+    padding: 3px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+    height:40px;
+    width:100%;
+  }
+  .sidis{
+    background-image:url("img/2nd pic.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    height:250px;
+    width:100%;
+  }
+  .fulis{
+    background-image:url("img/3rd pic.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    height:250px;
+    width:100%;
+  }
+  .gohu{
+    padding:20px 0px 0px 20px;
+    color:#69B99D;
+  }
+  .difot{
+    padding:10px 0px 0px 20px;
+  }
+  .djpos{
+    background:#F5F5F5;
+    height:800px;
+    width:100%;
+  }
+  .jodu{
+    padding-left:20px;
+  }
+  .tumi{
+    height:500px;
+    width:100%;
+    padding: 10px 10px 0px 50px;
+
+  }
+  .tumitow{
+    height:390px;
+    width:90%;
+    padding:10px;
+    border:1px solid #69B99D;
+  }
+  .buttontwo{
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px 2px;
+    cursor: pointer;
+    width:20%;
+  }
+  .m{
+    height:600px;
+    width:100%;
+  }
+  .bnmmone-mother{
+    background-image:url("img/extra bari.png");
+    background-repeat:no-repeat;
+    height:600px;
+    width:50%;
+  }
+  .bnmmtwo{
+    padding-top:50px;
+    width:100%;
+    float:right;
+  }
+  .btn{
+    background-color: white;
+    padding:40px 0px 0px 60px;
+    color:#69B99D;
+  }
+  .kmeh{
+    padding-left:20px;
+    font-size: 20px;
+    color:#054457;
+  }
+  .btntr{
+   background-color:#69B99D;
+   border:none;
+  }
+  .tumitown{
+    height:390px;
+    width:95%;
+    border:1px solid gray;
+   
+  }
+
+
+  .service-wraper
+  {
+     float: left;
+    // background-color: red;
+     padding: 10px;
+     width:95%;
+     margin-left:2%;
+     position: relative;
+   
+  }
+  .post-wraper{ width: 90%;}
+  
+
+.post-image 
+{
+
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  
+}
+.chbn-b{
+  float:right;
+  height:100px;
+  width:85%;
+  padding-top:20px;
+}
+.imaz{
+  float:left;
+  height:100px;
+  width:15%;
+  padding-top:20px;
+}
+li{
+  display: inline;
+  padding:10px;
+  float: left;
+  text-align:center;
+}
+li a{
+  text-decoration:none;
+  color: black;
+}
+.buttono{
+  height:30px;
+  width:200px;
+  border:1px solid gray;
+  color:#4BA586;
+}
+.guru{
+  height:500px;
+  width:80%;
+  position:relative;
+  padding-top:100px;
+  
+}
+.sisso{
+  height:200px;
+  width:30%;
+  position:absolute;
+  background:white;
+  margin-left:80px;
+  z-index:1;
+  top:0px;
+}
+.sisso_one{
+  height:400px;
+  width:100%;
+  background-image:url("img/extra bari.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+  
+}
+.sisso_two{
+  height:100px;
+  width:80%;
+  position:absolute;
+  background:white;
+  z-index:1;
+  bottom:0px;
+  right:0px;
+}
